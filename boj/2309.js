@@ -8,7 +8,6 @@ let input = fs
 
 // console.log(input);
 let totalHeight = 0;
-let result = [];
 
 input.sort((a, b) => a - b);
 
